@@ -2,15 +2,16 @@
 
 An offline Python library that orders tasks against deadlines, dependencies, and available capacity.
 
-This package is a planner library, not the full supervisor. It launches no workers, renderers, models, browser, cloud jobs, trackers or background services. It does not install or activate the internal Nightshift. Its output is a recommendation, not proof of authorization, resource availability, sandboxing or job completion.
-
 ## Download
 
-[![Download Nightshift Core ZIP (v0.1.0)](https://img.shields.io/badge/Download-Nightshift_Core_ZIP-222222?style=for-the-badge)](https://github.com/Exlumina/nightshift-core/releases/download/v0.1.0/nightshift-core_0.1.0.zip)
+<p><a href="https://github.com/Exlumina/nightshift-core/releases/download/v0.1.0/nightshift-core_0.1.0.zip"><img src=".github/downloads/download-zip.svg" width="240" height="48" alt="Download Nightshift Core ZIP (v0.1.0)"></a></p>
 
-Developer preview · Python 3.10+ with no additional packages.
+v0.1.0 · ZIP developer preview<br>
+Python 3.10+ with no additional packages.
 
 [v0.1.0 release notes](https://github.com/Exlumina/nightshift-core/releases/tag/v0.1.0) · [SHA-256 checksum](https://github.com/Exlumina/nightshift-core/releases/download/v0.1.0/SHA256SUMS)
+
+This package is a planner library, not the full supervisor. It launches no workers, renderers, models, browser, cloud jobs, trackers or background services. It does not install or activate the internal Nightshift. Its output is a recommendation, not proof of authorization, resource availability, sandboxing or job completion.
 
 ## Try a synthetic plan
 
